@@ -1,7 +1,5 @@
 # DigiWizard: A Modular Raspberry Pi-Based Tablet Platform
 
-![System Architecture](docs/architecture/system-architecture.jpg)
-
 ## Overview
 
 DigiWizard is a Raspberry Pi-based modular tablet platform developed as a Final Year Engineering Project. The primary objective of the project was to create a customizable Linux-powered tablet capable of extending traditional tablet functionality through RFID/NFC and Infrared (IR) communication technologies.
